@@ -1,6 +1,6 @@
 # Cloudflare Worker 配置文件
 
-name = "wechat-customer-service"
+name = "wxkfbot"
 main = "index.js"
 compatibility_date = "2024-09-23"
 compatibility_flags = ["nodejs_compat"]
