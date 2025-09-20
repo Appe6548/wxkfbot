@@ -31,11 +31,11 @@ SYSTEM_PROMPT="your are helpful assistant, reply in chinese, and reply in plain 
 # KV存储配置（用于持久化对话历史）
 [[kv_namespaces]]
 binding = "CONVERSATIONS"
-id = ""
+id = "bd9117dbc631475fbdce4320394e8534"
 preview_id = ""
 
 # KV存储配置（用于消息处理状态跟踪）
 [[kv_namespaces]]
 binding = "MESSAGE_TRACKER"
-id = ""
+id = "4e42b631ad1c4377ba71ee1edb8273a0"
 preview_id = ""
